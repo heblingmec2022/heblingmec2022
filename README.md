@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @heblingmec2022
-- I'm a project manager and supplychain specialist (MBA), Informatic in Education specialist, mechanical engineer, developer fullstack.
-- I'm studying a Master Degree in Informatic in Education by IFRS (Federal Institute of Rio Grande do Sul)
-- 👀 I’m interested in cloud computing, python, javascript, nodeJS, postgresql, sql, mysql, php, azure, AWS, microsoft 365, agile methods, IA, data science, machine learning.
-- 🌱 I’m currently learning GitHub, nodeJS, MongoDB, data science, machine learning, IA, javascript, python.
-- 💞️ I’m looking to collaborate on my own projects, like web development, conclusion work from master degree, and a position abroad.
-- 📫 How to reach me: by GitHub, email (hebling.pablo@gmail.com or heblingmec@hotmail.com), or even phone: +55 51 9 9186-5724
+Technology and Engineering professional with over 5 years of experience turning complex data into strategic insights for decision-making. I am currently a Master's student in Computer Science, where I am deepening my knowledge in data analysis and computational intelligence.
+
+My background combines solid business experience (supporting supply chains in large industries) with technical work in systems analysis and Business Intelligence in the public sector. I am a specialist in the data ecosystem, working from data extraction and processing (ETL in Power Query and SQL scripts) to advanced modeling (DAX) and creating high-impact dashboards in Power BI and Excel.
+
+Key Skills: • BI & Visualization: Power BI, Executive Dashboards, Data Storytelling, Advanced Excel. • Engineering and Processing (ETL): Power Query, M language, automated data extraction. • Databases: Querying, manipulation, and modeling in SQL (PostgreSQL, MySQL, SQL Server). • Support Languages: Python applied to data analysis and automations.
 
 <!---
 heblingmec2022/heblingmec2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
